@@ -1,4 +1,4 @@
-![GitHub Stats](https://github.com/CNoox/CNoox/raw/main/profile/stats.svg)
+![GitHub Stats](https://github.com/CNoox/CNoox/blob/main/about.svg)
 # Hey, I'm Amir 👋
 
 💻 Backend Developer
